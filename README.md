@@ -1,6 +1,3 @@
-Here is a complete, clear, and professional README.md file tailored specifically for your analisis_telco.py library. You can save this directly into a README.md file in your repository.
-
-📊 analisis_telco.py
 analisis_telco.py is a specialized Python module designed for telecommunications market analysis, geospatial intelligence, subscriber segmentation, and interactive data visualization.
 
 It provides robust tools for working with Ookla/speedtest datasets, CRM exports (e.g., Odoo), B2B/B2C classification, market share tracking, latency/throughput distribution analysis, Sankey flow diagrams for churn/migration, and interactive Folium maps.
